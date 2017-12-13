@@ -1,0 +1,160 @@
+@charset "UTF-8";
+
+
+
+
+header{
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	font-size: 70px;
+	background-color: pink;
+	
+}
+body{
+	
+}
+.hero-box{
+	background: url(images/image1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 500px;
+	border: soild;
+	color: red;
+}
+
+
+	
+*{
+			padding: 1px;
+			margin: 0;
+		}
+		nav{
+			background-color: black;
+			height: 50px;
+			padding: 2px;
+		
+		}
+nav ul{
+	border: 1px solid red;
+	height: 50px;
+}
+		nav ul li{
+			list-style-type: none;
+			width: 300px;
+			float: left;
+			border-right: 1px solid #CCC;
+			text-align: center;
+		}
+		nav ul li a{
+			text-decoration: none;
+			color: white;
+			line-height: 50px;
+			display: block;
+			
+		}
+		li a:hover{
+			background-color: blue;
+		}
+		nav{
+			background-color: black;
+			height: 50px;
+		}
+		nav ul li{
+			list-style-type: none;
+			width: 150px;
+			float: left;
+			border-right: 0.5px solid #CCC;
+			text-align: center;
+		}
+		nav ul li a{
+			text-decoration: none;
+			color: white;
+			line-height: 40px;
+			display: block;
+			padding: 4px;
+			width:inherit;
+		}
+		li a:hover{
+			background-color: blue;
+		}
+h1{font-size: 40px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+
+
+
+dir{
+	font-size: 30px;
+}
+footer{
+	text-align: center;
+	padding-top: 15px;
+}
+dir{
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+	font-size: 25px;
+	padding-top: 6px;
+	margin: 2px;
+
+}
+div{
+	font-size: 20px;
+	font: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: black;
+	margin: 2px;
+	padding-top: 6px;
+}
+.CTA{
+	display: block;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 30px;
+}
+.CTA hover{
+	background-color: darkslategrey;
+}
+
+
+.signupemail{
+	text-align: center;
+	font-size: 30px;
+	color: blue;
+	padding-top: 3px;
+}
+
+.img1{
+	float: right;
+}
+.party{
+	text-align: center;
+	font-size: 30px;
+	color:blue;
+	text-decoration-style: solid;
+}
+.img3{
+	float: right;
+}
+.img2{
+	float: right;
+}
+.img4{
+	float: center;
+}
+.img5{
+	float: right;
+}
+p{
+	font-size:25px;
+}
+.img6{
+	float: right;
+}
+.img7{
+	float:right;
+}
+.img8{
+	float:right;
+}
